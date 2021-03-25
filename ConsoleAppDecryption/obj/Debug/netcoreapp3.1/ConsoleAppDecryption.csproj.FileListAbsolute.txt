@@ -1,0 +1,13 @@
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.exe
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.deps.json
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.runtimeconfig.json
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.runtimeconfig.dev.json
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.dll
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\bin\Debug\netcoreapp3.1\ConsoleAppDecryption.pdb
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.csproj.CoreCompileInputs.cache
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.AssemblyInfoInputs.cache
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.AssemblyInfo.cs
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.dll
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.pdb
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.genruntimeconfig.cache
+C:\Users\rkanj\Documents\Visual Studio 2019\Projects\ConsoleAppDecryption\obj\Debug\netcoreapp3.1\ConsoleAppDecryption.csprojAssemblyReference.cache
